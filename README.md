@@ -15,8 +15,7 @@ I specialize in building powerful and scalable web applications using Laravel an
 - 🌱 I’m currently learning:
   - ☁️ **AWS Cloud**, **Docker**, and **DevOps tools**
   - 🤖 **AI applications in web development**
-  - 🇬🇧 Preparing for **IELTS**
-  - 🇩🇪 Learning **German**
+
 
 - 👯 I’m looking to collaborate on:
   - Open-source Laravel or React-based projects
