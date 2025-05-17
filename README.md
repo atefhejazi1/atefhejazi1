@@ -35,7 +35,6 @@ I specialize in building powerful and scalable web applications using Laravel an
   - [Upwork](https://www.upwork.com/freelancers/~019155515c3b5d1ea4)
   - 📧 Email: atefhejazi10@gmail.com
 
-- 😄 Pronouns: he/him  
 - ⚡ Fun fact: I love teaching, building systems from scratch, and I dream of working remotely with global tech teams 🌍
 
 ---
