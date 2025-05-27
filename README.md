@@ -8,10 +8,6 @@ I specialize in building powerful and scalable web applications using Laravel an
 -->
 
 ---
-
-- 🔭 I’m currently working on:
-  - 🛒 **Multi-Vendor E-commerce Platform**
-
 - 🌱 I’m currently learning:
   - ☁️ **AWS Cloud**, **Docker**, and **DevOps tools**
   - 🤖 **AI applications in web development**
