@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Atef Hejazi**, a passionate **Full Stack Web Developer** and **Technical Trainer** from **Gaza, Palestine** 🇵🇸.  
+I'm **Atef Hejazi**, a **Full Stack Web Developer** and **Technical Trainer** from **Gaza, Palestine** 🇵🇸.  
 I specialize in building powerful and scalable web applications using Laravel and React.js. I’m also dedicated to training and mentoring aspiring developers.
 
 <!--
@@ -11,15 +11,6 @@ I specialize in building powerful and scalable web applications using Laravel an
 - 🌱 I’m currently learning:
   - ☁️ **AWS Cloud**, **Docker**, and **DevOps tools**
   - 🤖 **AI applications in web development**
-
-
-- 👯 I’m looking to collaborate on:
-  - Open-source Laravel or React-based projects
-  - Educational programming content for YouTube
-
-- 🤔 I’m looking for help with:
-  - Advanced DevOps practices and container orchestration
-  - Connecting with remote work opportunities worldwide
 
 - 💬 Ask me about:
   - Laravel, MySQL, React
