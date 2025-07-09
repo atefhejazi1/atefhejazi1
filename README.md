@@ -1,4 +1,4 @@
-👋 Hi there, I'm [Atef Hejazi]!
+👋 Hi there,
 
 I build websites and apps. I enjoy making things that work well and are easy for people to use. I also love learning new tech.
 
@@ -18,9 +18,10 @@ Backend Skills: PHP, PHP PDO, PHP OOP, MySQL, Laravel, Livewire, Pusher
 Other Tools: Git, GitHub
 
 🌐 Let's Connect!
-Want to work together or just chat? Find me here:
+Want to work together? Find me here:
 
 LinkedIn: [https://www.linkedin.com/in/atefhejazi/]
+
 Email: [atefhejazi10@gmail.com]
 
 📈 My GitHub Numbers
