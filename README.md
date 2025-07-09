@@ -24,10 +24,4 @@ LinkedIn: [https://www.linkedin.com/in/atefhejazi/]
 
 Email: [atefhejazi10@gmail.com]
 
-📈 My GitHub Numbers
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=atefhejazi1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atefhejazi1&layout=compact&theme=radical)
-
-
 Thanks for visiting! Happy coding! ✨
