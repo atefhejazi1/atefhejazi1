@@ -45,11 +45,6 @@ I've also trained **150+ developers** across structured full-stack programs, whi
 
 ---
 
-## 📊 GitHub Stats
-
-![Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atefhejazi1&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atefhejazi1&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 ## 📫 Let's Connect
