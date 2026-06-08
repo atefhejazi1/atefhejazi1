@@ -8,7 +8,7 @@ I've also trained **150+ developers** across structured full-stack programs, whi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -33,7 +33,7 @@ I've also trained **150+ developers** across structured full-stack programs, whi
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atefhejazi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atefhejazi10@gmail.com)
@@ -41,4 +41,4 @@ I've also trained **150+ developers** across structured full-stack programs, whi
 
 ---
 
-*Open to Full Stack Developer roles — especially remote-friendly teams building real products.* 🚀
+*Open to Full Stack Developer roles — especially remote-friendly teams building real products.* 
