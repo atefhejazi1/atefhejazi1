@@ -1,4 +1,4 @@
-# Hi, I'm Atef Hejazi 👋
+# Hi, I'm Atef Hejazi 
 
 ### Full Stack Developer | Laravel · React · Livewire | PHP · TypeScript
 
@@ -30,20 +30,6 @@ I've also trained **150+ developers** across structured full-stack programs, whi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [🏫 School Management System](https://github.com/atefhejazi1/school-management-system) | Laravel · Livewire · Zoom API | Full-featured SMS with class scheduling, student tracking, and Zoom integration. Built with Repository Pattern. |
-| [🏥 Hospital Management System](https://github.com/atefhejazi1/Hospital-Management-System) | Laravel · Livewire · Pusher | Real-time hospital platform with live notifications via WebSockets. |
-| [🛒 E-Commerce Full Stack](https://github.com/atefhejazi1/Store-Checkout-Stripe-with-RestfullAPI) | Laravel · MySQL · Stripe | Complete store with product management and live Stripe payment integration. |
-| [🛍️ E-Commerce Frontend](https://github.com/atefhejazi1/eCommerce-App) | React · Redux Toolkit · TypeScript | Fully-typed React storefront with global cart state and form validation. |
-| [▶️ YouTube Clone](https://github.com/atefhejazi1/youtube-clone) | React · JavaScript | Responsive YouTube-style interface with search and video playback. |
-
----
 
 ---
 
