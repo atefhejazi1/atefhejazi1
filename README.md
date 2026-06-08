@@ -1,44 +1,83 @@
 # Hi, I'm Atef Hejazi 
 
-### Full Stack Developer | Laravel · React · Livewire | PHP · TypeScript
+Full Stack Developer and Technical Instructor based in Gaza, Palestine.
 
-I'm a Full Stack Developer with 4+ years of experience building production-grade web applications. I specialize in **Laravel** (Repository Pattern, Livewire) on the backend and **React/TypeScript** on the frontend. I'm currently expanding into DevOps — Docker, Linux, AWS, and Terraform.
+I've been building web applications and teaching development since 2021 at Wasla Training Academy, where I've delivered 720+ hours of instruction across 5 cohorts and trained 150+ students in frontend, backend, and full-stack tracks.
 
-I've also trained **150+ developers** across structured full-stack programs, which has made me a better developer — teaching forces deep understanding.
+My teaching philosophy is simple: **فهم مش حفظ** — understanding over memorization.
 
 ---
 
-##  Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## What I Build
 
 **Backend**
+- Laravel, PHP, REST APIs, MySQL
+- Livewire for reactive interfaces
+- Stripe payment integration
+- Pusher for real-time features
+- Zoom API integration
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Frontend**
+- React, TypeScript, Redux
+- Component architecture, state management
 
-**Tools & DevOps (Learning)**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-##  Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atefhejazi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atefhejazi10@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atefhejazi1)
+**Infrastructure**
+- Docker
+- Basic AWS and Terraform
 
 ---
 
-*Open to Full Stack Developer roles — especially remote-friendly teams building real products.* 
+## Projects
+
+**School Management System**
+Laravel + Livewire + Zoom API + Repository Pattern — handles students, instructors, courses, and live session scheduling.
+
+**Hospital Management System**
+Laravel + Livewire + Pusher — real-time ward and patient management.
+
+**E-Commerce Platform**
+Backend: Laravel + Stripe for payments and order management.
+Frontend: React + TypeScript + Redux for the client-side storefront.
+
+**YouTube Clone**
+React — video listing, search, and playback UI.
+
+---
+
+## Teaching
+
+At Wasla Training Academy I built and delivered a multi-stage web development curriculum:
+
+- **Stage 1** — Frontend (HTML, CSS, JS, React)
+- **Stage 2** — PHP Backend + PDO
+- **Stage 3** — Laravel + React full-stack
+- **Stage 4** — Java programming (beginner, 24 hours)
+
+150+ students trained across 5 cohorts. 720+ hours of instruction delivered.
+
+---
+
+## Education & Training
+
+- BSc Software Development — Islamic University of Gaza (2018–2022), CGPA 78.08%
+- Gaza Sky Geeks Advanced React Pro Training — one of 45 selected participants, 100+ hours (Aug 2025–Jan 2026)
+- IBM Back-End Developer Professional Certificate (in progress)
+- McKinsey Forward Program (2026)
+
+---
+
+## Stack
+
+```
+Laravel · Livewire · PHP · MySQL
+React · TypeScript · Redux
+REST APIs · Stripe · Pusher · Zoom API
+Docker · Git
+```
+
+---
+
+## Find Me
+
+- GitHub: [github.com/atefhejazi1](https://github.com/atefhejazi1)
+- LinkedIn: linkedin.com/in/atef-hejazi
