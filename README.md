@@ -1,83 +1,13 @@
-# Hi, I'm Atef Hejazi 
+# Atef Hejazi
 
-Full Stack Developer and Technical Instructor based in Gaza, Palestine.
+## Software Engineer | Full Stack Web Developer
 
-I've been building web applications and teaching development since 2021 at Wasla Training Academy, where I've delivered 720+ hours of instruction across 5 cohorts and trained 150+ students in frontend, backend, and full-stack tracks.
-
-My teaching philosophy is simple: **فهم مش حفظ** — understanding over memorization.
+Experienced Full Stack Developer with 5+ years building and shipping production-grade web applications, and over 4 years teaching software development to the next generation of engineers. I specialize in Laravel and React ecosystems, having architected and delivered systems including a School Management System, Hospital Management System, and full E-Commerce platforms with payment integration, real-time features, and role-based access control. Beyond engineering, I've designed and delivered 720+ hours of structured curriculum across 5 cohorts, training 150+ students from fundamentals to production-ready full stack development. I care deeply about clean architecture, maintainable code, and building software that actually solves real problems.
 
 ---
 
-## What I Build
+## Contact
 
-**Backend**
-- Laravel, PHP, REST APIs, MySQL
-- Livewire for reactive interfaces
-- Stripe payment integration
-- Pusher for real-time features
-- Zoom API integration
-
-**Frontend**
-- React, TypeScript, Redux
-- Component architecture, state management
-
-**Infrastructure**
-- Docker
-- Basic AWS and Terraform
-
----
-
-## Projects
-
-**School Management System**
-Laravel + Livewire + Zoom API + Repository Pattern — handles students, instructors, courses, and live session scheduling.
-
-**Hospital Management System**
-Laravel + Livewire + Pusher — real-time ward and patient management.
-
-**E-Commerce Platform**
-Backend: Laravel + Stripe for payments and order management.
-Frontend: React + TypeScript + Redux for the client-side storefront.
-
-**YouTube Clone**
-React — video listing, search, and playback UI.
-
----
-
-## Teaching
-
-At Wasla Training Academy I built and delivered a multi-stage web development curriculum:
-
-- **Stage 1** — Frontend (HTML, CSS, JS, React)
-- **Stage 2** — PHP Backend + PDO
-- **Stage 3** — Laravel + React full-stack
-- **Stage 4** — Java programming (beginner, 24 hours)
-
-150+ students trained across 5 cohorts. 720+ hours of instruction delivered.
-
----
-
-## Education & Training
-
-- BSc Software Development — Islamic University of Gaza (2018–2022), CGPA 78.08%
-- Gaza Sky Geeks Advanced React Pro Training — one of 45 selected participants, 100+ hours (Aug 2025–Jan 2026)
-- IBM Back-End Developer Professional Certificate (in progress)
-- McKinsey Forward Program (2026)
-
----
-
-## Stack
-
-```
-Laravel · Livewire · PHP · MySQL
-React · TypeScript · Redux
-REST APIs · Stripe · Pusher · Zoom API
-Docker · Git
-```
-
----
-
-## Find Me
-
-- GitHub: [github.com/atefhejazi1](https://github.com/atefhejazi1)
-- LinkedIn: linkedin.com/in/atef-hejazi
+**Name:** Atef Hejazi  
+**Email:** atefhejazi10@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/atefhejazi/
